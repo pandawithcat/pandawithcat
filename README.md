@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, Welcome to my github profile!👋
+#### If you've made it to here, I believe that means you either are looking for someone to hire or really enjoyed my small projects! Although I do my github speaks for itself, i'll write down some more info about me here! C'est la vie my friends!
 
 <!--
 **pandawithcat/pandawithcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
