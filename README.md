@@ -1,4 +1,4 @@
-![Alt Text](https://imgur.com/9Z8h0oc)
+![Alt Text](https://github.com/pandawithcat/pandawithcat/blob/master/profile.png?raw=true)
 
 # Howdy,fellow developers!👋
 #### I'm a mediocre developer interested in creating something that would make world a happier place. 
