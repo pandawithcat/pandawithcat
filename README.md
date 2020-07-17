@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/pandawithcat/pandawithcat/blob/master/profile.png?raw=true)
+<img src="https://github.com/pandawithcat/pandawithcat/blob/master/profile.png?raw=true"  width="500" height="300">
 
 # Howdy,fellow developers!👋
 #### I'm a mediocre developer interested in creating something that would make world a happier place. 
