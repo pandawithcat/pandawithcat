@@ -11,7 +11,7 @@
 #### So, take a look at some of my projects and I would love feedbacks! 
 #### Just to be safe, I'll write down some more info about me here! 
 
-- 🔭 I’m currently working on NOTHING!
+- 🔭 I’m currently working on making a tutorial for full stack machine learning app! [Simple Flower Classification App](https://github.com/pandawithcat/flower_classifier)
 - 🌱 I’m currently learning running multiple docker containers on AWS and GCP!
 - 👯 I’m looking to collaborate on creating libraries using JULIA! 
 - 📫 How to reach me: pandawithcat@gmail.com
