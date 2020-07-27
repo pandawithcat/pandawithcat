@@ -15,5 +15,6 @@
 - 🌱 I’m currently learning running multiple docker containers on AWS and GCP!
 - 👯 I’m looking to collaborate on creating libraries using JULIA! 
 - 📫 How to reach me: pandawithcat@gmail.com
+- Personal website: [Link](https://pandawithcat.github.io/personal-website).
 
 ## C'est la vie!
